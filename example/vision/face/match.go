@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	v2 "github.com/chenqinghe/baidu-ai-go-sdk/vision/face/v2"
 	"github.com/yiGmMk/baidu-ai-go-sdk/vision"
+	v2 "github.com/yiGmMk/baidu-ai-go-sdk/vision/face/v2"
 )
 
 func Match() {

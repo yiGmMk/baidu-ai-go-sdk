@@ -1,6 +1,6 @@
 package ocr
 
-import gosdk "github.com/chenqinghe/baidu-ai-go-sdk"
+import gosdk "github.com/yiGmMk/baidu-ai-go-sdk"
 
 type OCRClient struct {
 	*gosdk.Client
