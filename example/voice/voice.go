@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/chenqinghe/baidu-ai-go-sdk/voice"
 	"log"
 	"os"
+
+	"github.com/yiGmMk/baidu-ai-go-sdk/voice"
 )
 
 const (

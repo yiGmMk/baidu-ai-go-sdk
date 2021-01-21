@@ -1,4 +1,4 @@
-module github.com/chenqinghe/baidu-ai-go-sdk
+module github.com/yiGmMk/baidu-ai-go-sdk
 
 go 1.13
 

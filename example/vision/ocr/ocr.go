@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/chenqinghe/baidu-ai-go-sdk/vision"
-	"github.com/chenqinghe/baidu-ai-go-sdk/vision/ocr"
+
+	"github.com/yiGmMk/baidu-ai-go-sdk/vision"
+	"github.com/yiGmMk/baidu-ai-go-sdk/vision/ocr"
 )
 
 const (

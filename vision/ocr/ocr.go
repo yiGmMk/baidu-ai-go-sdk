@@ -3,7 +3,7 @@ package ocr
 import (
 	"errors"
 
-	"github.com/chenqinghe/baidu-ai-go-sdk/vision"
+	"github.com/yiGmMk/baidu-ai-go-sdk/vision"
 )
 
 const (
